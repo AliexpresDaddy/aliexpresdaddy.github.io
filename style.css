@@ -1,0 +1,282 @@
+input {
+      width: 530px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-left: 118px; 
+      margin-top: 150px;
+      margin-right: 340px;
+}
+
+
+
+opmerking input { 
+                  margin-top: 2px;
+                  width: 530px;
+                  margin-right: 340px;
+}
+
+
+
+opmerking label { text-align: 
+}
+
+
+
+emailadres input {margin-top: 2px;
+}
+
+
+
+telefoon input { margin-top: 2px;
+}
+
+
+
+label { margin-left: 75;
+        font-size: 15pt;
+}
+
+
+
+.gpssystem { position: relative;
+             margin-left: 100px;
+}        
+
+div.adres { width: 100%;
+             overflow: auto;
+}
+
+div.adres { width: 33%;
+            float: left;
+            text-align: center;
+            margin-left: 195px;
+}
+
+
+
+* { margin: 0;
+}
+
+main { background-color: #203288;
+}
+
+body { text-decoration: none;
+}
+
+body { color: white;
+}
+
+
+header { text-align: center;
+}
+
+header h1 { font-family: 
+}
+
+h1{ font-size: 2em;
+} 
+
+h1{ text-align: center;
+}
+
+article p { text-align: right;
+             padding-right: 20px;
+} 
+
+form { text-align: right;
+}
+
+nav { list-style-type: none;
+      overflow: hidden;
+      float: center;
+      text-align: center;
+      padding: 60px;
+}
+
+nav a { 
+      display: inline-block;
+      border-radius: 46% 46% 46% 46% / 10% 11% 10% 10%;
+      border: 1px solid white;
+      padding: 10px 0px 10px 10px;
+      color: white;
+      font-family: roboto;
+      text-align: center;
+      text-decoration: none;
+      width: 180px;
+      height: 23px;
+      margin: 10px auto;  
+      cursor: pointer;
+}
+
+
+nav a:hover { text-decoration: none;
+              background-color: white;
+              color: darkblue;
+}
+
+contact { text-align: center;
+}
+
+ contact a { text-decoration: none;
+ }
+
+ contact a:hover { color: rgb(48, 51, 55)}
+
+header { background-color: black;
+}
+
+header p { text-align: right;
+           padding-top: 10px;
+           padding-right: 150px;
+           font-family: satisfyer;
+}
+
+header a { margin-right: 80px;
+           color: white;
+           text-align: right;
+}
+
+
+  
+tel a { text-align: left;
+        text-decoration: none;
+        color: white;
+}
+
+
+
+
+div { border-radius: 5px;
+      padding: 20px;
+}
+
+folder { text-align: center;
+         margin-left: 50px;
+         margin-bottom: 1.75em;
+}
+
+specialiteiten p { text-align: center;
+                   margin-top: 30px;
+}
+
+picture { text-align: center;
+          margin-left: 240px;
+          margin-top: 30px;
+}
+
+#div1 { display: inline-block;
+}
+
+#div2 { display: inline-block;
+        background-color: #203288;
+        margin-left: 80px;
+}
+
+#div3 { display: inline-block;
+        margin-left: 80px;
+}
+
+#div4 { display: inline-block;
+}
+
+#div5 { display: inline-block;
+        margin-left: 80px;
+}
+
+#div6 { display: inline-block;
+        margin-left: 80px;
+}
+
+#div7 { display: inline-block;
+}
+
+#div8 { display: inline-block;
+        margin-left: 80px;
+}
+
+#div9 { display: inline-block;
+        margin-left: 80px;
+}
+
+#div10 { display: inline-block;
+         margin-left: 80px;
+}
+
+#div11 { display: inline-block;
+         margin-left: 420px;
+}
+
+#div12 { display: inline-block;
+         text-align: center;
+         margin-left: 380px;
+}
+
+#div13 { display: inline-block;
+         text-align: center;
+}
+
+#div14 { margin-left: 415px;
+}
+
+#div1 p { text-align: center;
+}
+
+#div3 { text-align: center;
+}
+
+#div6 { text-align: center;
+}
+
+#div7 { text-align: center;
+}
+
+#div9 { text-align: center;
+}
+
+#div10 { text-align: center;
+}
+
+#div11 { text-align: center;
+}
+
+welkom { text-align: center;
+}
+
+#div18 {  margin-right: 150px;
+}
+
+#div20 { 
+         margin-top: 20px;
+         font-size: 17pt;
+         display: block;
+}
+
+#div19  { margin-left: 280px;
+          rotate: -70deg;
+}
+
+#div22 { font-size: 19pt;
+         margin-right: 850px;
+         display: block;
+}
+
+#div23 { rotate: -35deg;
+          margin-right: 1000px;
+          display: block;
+          height: 1px;
+}
+
+#div21 { display: block;
+}
+
+#txt-greep { display: block;
+}
+
+
+
+
+
